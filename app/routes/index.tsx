@@ -26,6 +26,7 @@ export default function Index() {
             Remix Docs
           </a>
         </li>
+        <h2>GitHub actions is awesome!</h2>
       </ul>
     </div>
   );
